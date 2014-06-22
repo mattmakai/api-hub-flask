@@ -1,0 +1,5 @@
+#!/bin/bash
+export DEBUG=True
+
+# example: sqlite:///home/matt/devel/py/api-hub
+export DATABASE_URL=''
