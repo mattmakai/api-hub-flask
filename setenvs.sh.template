@@ -1,6 +1,6 @@
 #!/bin/bash
 export DEBUG=True
 
-# example: sqlite:///home/matt/devel/py/api-hub
+# example: sqlite:///home/matt/devel/py/metareact
 export DATABASE_URL=''
 export SECRET_KEY=''
